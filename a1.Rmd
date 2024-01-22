@@ -1,0 +1,21 @@
+---
+title: "Assignment-1"
+author: "Kritika"
+date: "`r Sys.Date()`"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+#load libraries
+library(tidyverse)
+#load the data
+data_cars<- data(mtcars)
+str(data_cars)
+```
+
+
+
