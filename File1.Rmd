@@ -24,4 +24,7 @@ plot(pressure)
 #basic calculation
 (5+4)/3
 ```
-
+```{r}
+#basic calculation 2
+(2+3)**3
+```
