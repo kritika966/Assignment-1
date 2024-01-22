@@ -19,3 +19,7 @@ summary(cars)
 ```{r pressure, echo=FALSE}
 plot(pressure)
 ```
+```{r}
+#basic calculation
+(5+4)/3
+```
